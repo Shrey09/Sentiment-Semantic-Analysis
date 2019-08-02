@@ -11,8 +11,6 @@ positive-words.txt --- this is the dictionary for positive words.
 stop-words.txt --- this is the dictionary for removing the stop words.
 
 tweet-sentiment-csv --- This file stores all tweets and its polarity.
-sentiment_analysis_output.pdf  ---- Output file of sentiment analysis.
-reuters_document_ranking_output ---  Output file of document ranking.
 
 sample_ranking_2.py   ----- program tested on class example.
 document_ranking_2.py ---- document ranking program on reuter dataset.
